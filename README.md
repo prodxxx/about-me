@@ -9,3 +9,15 @@ management, and cyber security.
 * Learning new skills
 * Travel
 * Video games
+
+## Profiles
+https://www.linkedin.com/in/davemiranda/
+https://github.com/prodxxx/
+
+## Technical Skills
+Windows systems administration for desktops and servers
+Exchange and Active Directory administation
+PowerShell
+SharePoint
+Mobile Device Management with WorkSpace One (formerly AirWatch) and InTune
+
